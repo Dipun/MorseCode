@@ -13,6 +13,7 @@ class TextAreaInput extends Component {
 
   render() {
     const inputValue = this.props.inputValue;
+    // testing commit
     const placeHolder = this.props.placeHolder;
     return (
       <div>
