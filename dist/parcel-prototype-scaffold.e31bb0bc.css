@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+header {
+  background-color: #282c34;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.entry-content {
+  display: block;
+  padding-left: 30px;
+  color: gray;
+}
+
+textarea {
+  max-width: 75%;
+}
+
+link {
+  color: #61dafb;
+}
+
+/*# sourceMappingURL=/parcel-prototype-scaffold.e31bb0bc.css.map */
